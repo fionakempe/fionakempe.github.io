@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.zone1 {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: blueviolet;
+}
+
+.zone2 {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: yellow;
+}
+
+.zone3 {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: coral;
+}
+
+button {
+    position: absolute;
+    bottom: 10px;
+}
